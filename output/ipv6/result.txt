@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-11 18:41:58,https://epg.pw/stream/753fe6b20478c17a39f0c17d3c8d98a74cd5890a6e40f4ce011380f2dd185285.m3u8$订阅源
+2025-12-13 18:38:26,https://epg.pw/stream/753fe6b20478c17a39f0c17d3c8d98a74cd5890a6e40f4ce011380f2dd185285.m3u8$订阅源
 
 📺央视频道,#genre#
 CCTV-6,https://epg.pw/stream/753fe6b20478c17a39f0c17d3c8d98a74cd5890a6e40f4ce011380f2dd185285.m3u8$订阅源
@@ -34,6 +34,7 @@ CCTV-16,https://epg.pw/stream/c1beb2abcba5aef09c2f58efc3ca84b76de2c7b9cf60762b0d
 
 ☘️广东频道,#genre#
 广东体育,https://epg.pw/stream/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.m3u8$订阅源
+广州综合,http://r.jdshipin.com/snhya$订阅源
 
 ☘️浙江频道,#genre#
 浙江钱江,http://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8$订阅源
@@ -154,14 +155,15 @@ CCTV-16,https://epg.pw/stream/c1beb2abcba5aef09c2f58efc3ca84b76de2c7b9cf60762b0d
 ☘️四川频道,#genre#
 叙永综合,rtmp://luzhi.xuyongrongmei.com:1935/live/xyxw?zsicd$订阅源
 旺苍新闻综合,http://live.spccmc.com:90/live/spxwzh.m3u8$订阅源
+松潘新闻综合,http://live.spccmc.com:90/live/spxwzh.m3u8?zsicd$订阅源
 汶川新闻综合,rtmp://live.iwcmt.cn:1936/live/zhxw$订阅源
+汶川新闻综合,http://live.iwcmt.cn:90/live/zhxw.m3u8?zsicd$订阅源
 泸县新闻综合,https://m3u8channel.ganzitv.com/nmip-media/channellive/channel1/playlist.m3u8$订阅源
 甘孜综合,https://m3u8channel.ganzitv.com/nmip-media/channellive/channel1/playlist.m3u8$订阅源
 荥经综合,https://file.ysxtv.cn/nmip-media/channellive/channel101492/playlist.m3u8$订阅源
 营山电视台,https://file.ysxtv.cn/nmip-media/channellive/channel101492/playlist.m3u8$订阅源
 
 ☘️陕西频道,#genre#
-陕西都市青春,https://mgtv.ottiptv.cc/migu/956909358.m3u8$订阅源
 陕西公共,http://ls.qingting.fm/live/1222.m3u8$订阅源
 陕西体育休闲,https://mgtv.ottiptv.cc/migu/956909356.m3u8?migutoken=537f41b132752ddecf45c6961f259728d075da371d21ce377b97c0dd87c77f01af39317b659e123c4ec137e20015acfabca007171dd79dd783c71207f78bb4f93b09ebe63db4a8a71c59a92674$订阅源
 
@@ -253,7 +255,6 @@ CCTV-16,https://epg.pw/stream/c1beb2abcba5aef09c2f58efc3ca84b76de2c7b9cf60762b0d
 
 ☘️青海频道,#genre#
 安多卫视,rtmp://liveout.xntv.tv/a65jur/96iln2$订阅源
-安多卫视,https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqinghd$订阅源
 西宁新闻综合,https://liveout.xntv.tv/a65jur/96iln2.m3u8#@http://cm-wshls.homecdn.com/live/5a296.dlv#@http://dtrmlive.qhdtrm.cn/xnds/sd/live.m3u8#@http://cm-wshls.homecdn.com/live/5a296.m3u8#rtmp://liveout.xntv.tv/a65jur/96iln2$订阅源
 西宁生活服务,https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqinghd#https://liveout.xntv.tv/a65jur/90p2i1.m3u8#http://dtrmlive.qhdtrm.cn/xnds/sd/live.m3u8$订阅源
 
@@ -263,20 +264,27 @@ CCTV-16,https://epg.pw/stream/c1beb2abcba5aef09c2f58efc3ca84b76de2c7b9cf60762b0d
 黑龙江新闻,https://ls.qingting.fm/live/4974/64k.m3u8$订阅源
 
 🌊港·澳·台,#genre#
+翡翠台,http://api.kkitv.itv888.vip:8080/streams/91wc8xdtj8/index.m3u8$订阅源
+翡翠台,http://r.jdshipin.com/GeWKr$订阅源
+明珠台,http://api.kkitv.itv888.vip:8080/streams/qi0oiujn7hh/index.m3u8$订阅源
 明珠台,http://r.jdshipin.com/ZQ4kN$订阅源
-凤凰中文,http://cdn6.163189.xyz/163189/fhzw$订阅源
 凤凰中文,https://cdn6.101.qzz.io/163189/fhzw$订阅源
+凤凰中文,http://cdn6.163189.xyz/163189/fhzw$订阅源
 凤凰中文,https://cdn9.163189.xyz/smt1.1.php?id=phoenixtv_hd$订阅源
 凤凰资讯,https://cdn6.101.qzz.io/163189/fhzx$订阅源
+凤凰资讯,http://api.kkitv.itv888.vip:8080/streams/wzt3qbit80m/index.m3u8$订阅源
 凤凰资讯,https://smt.1678520.xyz/smt3.2.1.php?id=phoenixinfo_hd$订阅源
 凤凰资讯,https://cdn9.163189.xyz/smt1.1.php?id=phoenixinfo_hd$订阅源
-凤凰香港,http://cdn6.163189.xyz/163189/fhhk$订阅源
 凤凰香港,https://cdn6.101.qzz.io/163189/fhhk$订阅源
+凤凰香港,http://cdn6.163189.xyz/163189/fhhk$订阅源
+凤凰香港,http://api.kkitv.itv888.vip:8080/streams/mty4v56ud39/index.m3u8$订阅源
 凤凰香港,https://smt.1678520.xyz/smt3.2.1.php?id=hkphoenix_twn$订阅源
 凤凰香港,https://cdn9.163189.xyz/smt1.1.php?id=hkphoenix_twn$订阅源
 凤凰香港,https://epg.pw/stream/8770e89223a086eb1b8a0c931e42296d772a8069ad3eb72540e0c434e7cb3e93.m3u8$订阅源
+凤凰卫视,http://api.kkitv.itv888.vip:8080/streams/vny1wblsnch/index.m3u8$订阅源
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd$LR•IPV4『线路8』
 纬来体育,https://epg.pw/stream/8855a9936e37e608a0ec8a014cce1673dee9c5d68d560da376cc92e5edef2b25.m3u8$订阅源
+J2,http://api.kkitv.itv888.vip:8080/streams/48uxa7dlbga/index.m3u8$订阅源
 三立新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8$订阅源
 三立新闻,https://epg.pw/stream/6b49e3faa38adda85abab446f032dc1e686baa0760a9cfa66e2df8fd6fe3b445.m3u8$订阅源
 
@@ -290,7 +298,6 @@ CHC动作电影,https://mgtv.ottiptv.cc/migu/644368714.m3u8?migutoken=4560e7c305
 无线星河,https://cdn6.101.qzz.io/163189/tvbxh$订阅源
 无线星河,https://smt.1678520.xyz/smt3.2.1.php?id=Xinhe$订阅源
 无线星河,https://cdn9.163189.xyz/smt3.1.1.php?id=Xinhe$订阅源
-东森洋片,http://php.666230.xyz/smt.php?id=ettvwestern$订阅源
 
 🎥咪咕直播,#genre#
 
